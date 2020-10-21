@@ -1,0 +1,11 @@
+{
+  "name": "nmp_package",
+  "version": "1.0.0",
+  "description": "pokemon project",
+  "main": "FetchAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tsvetomir Stoev",
+  "license": "ISC"
+}

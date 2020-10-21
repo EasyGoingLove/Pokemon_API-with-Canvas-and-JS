@@ -1,0 +1,19 @@
+canvas {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: transparent
+}
+#canvas {
+    background-image: url("https://mcdn.wallpapersafari.com/medium/27/58/sYQgHk.jpg"); 
+    border: 1px solid red;
+}
+
+#canvas { z-index: -1;  }
+#canvas2 { z-index: 0; }
+#canvas3 { z-index: 1; }
+#canvas4 { z-index: 2; }
+#canvas5 { z-index: 3; }
+#canvas6 { z-index: 4; }
+
+
