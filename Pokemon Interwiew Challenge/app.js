@@ -1,4 +1,4 @@
-
+//First 4 pokemons can not be clicked.
 import API from './api.js';
 import CanvasController from './CanvasController.js';
 import EventHandler from './EventHandler.js';
